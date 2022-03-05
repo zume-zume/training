@@ -1,0 +1,11 @@
+.rect {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: orangered;
+  transform: translateX(50px) scaleY(2);
+  transform-origin: center center;
+  //アニメーションを使うときは、topとかを使うより
+  //transformを使って調整
+  //transformでは表現しづらいときは、top leftを使う。
+}
