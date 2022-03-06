@@ -1,5 +1,5 @@
 const person = { 
-  name: ['しゃな', 'ぱん'],
+  name: ['さだ', 'まさお'],
   age: 5,
   gender: '？',
   interests: {
