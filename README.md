@@ -8,8 +8,8 @@
 ・DBの知識（登録・削除・更新・編集）  
 ・できればログイン機能も（CookieやSession）  
 
-# 01_HTML、CSS、JavaScriptで  
-オーソドックスに  
+# 01_basic（HTML、CSS、JavaScriptで）  
+オーソドックスにHTML、CSS、JavaScriptで  
 
 # 02_Vue.jsで  
 
