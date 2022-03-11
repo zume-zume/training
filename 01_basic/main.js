@@ -1,6 +1,6 @@
-const taskValue = document.getElementsByClassName("task_value")[0];
-const taskSubmit = document.getElementsByClassName("task_submit")[0];
-const taskList = document.getElementsByClassName("task_list")[0];
+const taskValue = document.querySelector(".task_value");
+const taskSubmit = document.querySelector(".task_submit");
+const taskList = document.querySelector(".task_list");
 
 //追加ボタンを作成
 const addTasks = (task) => {
