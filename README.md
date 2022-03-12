@@ -11,8 +11,8 @@
 # 01_basic（HTML、CSS、JavaScriptで）  
 オーソドックスにHTML、CSS、JavaScriptで  
 ・v1とりあえずできた。でもしょぼい。いくつか改良点を見繕う  
-　・UIがとにかく悪いので可愛くしたい。  
-　・HTMLのinputタグでenter押したら全部消える（笑）  
+  ・UIがとにかく悪いので可愛くしたい。  
+  ・HTMLのinputタグでenter押したら全部消える（笑）  
   ・できれば他の要素も追加したいなあ
 
 # 02_  
